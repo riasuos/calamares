@@ -1,0 +1,5 @@
+---
+type:       "job"
+name:       "delpacman"
+interface:  "python"
+script:     "main.py"

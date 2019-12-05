@@ -1,0 +1,21 @@
+---
+componentName:  riasu
+
+strings:
+    productName:         Riasu Linux
+    bootloaderEntryName: Riasu
+    productUrl:          https://riasu.github.io
+    supportUrl:          https://github.com/callmezatiel/
+    
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#353945"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#999999"
